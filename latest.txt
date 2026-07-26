@@ -1,3 +1,21 @@
-1.0.0
-dsagent-1.0.0-setup.exe
-首次发布
+1.13.2
+dsagent-1.13.2-setup.exe
+this is dsagent-1.13.2-setup.exe in 2026-07-26
+change in english
+Added: Conversations continue running in the background after switching
+Added: Dialog box height can now be adjusted for easier viewing
+Added: Update to the latest version from the web page, no longer dependent on developer releases
+Fixed: Garbled text returned from the toolchain
+Fixed: Project constraint review panel not popping up
+Fixed: Overlapping text in the bottom status bar
+Fixed: Incorrect token calculation
+Fixed: Project constraint rules not taking effect
+以下是改动：
+增加了 切换对话后后台继续运行
+增加了 对话框可以调整高度，方便查看
+增加了 从网页更新最新版本，不再依赖开发者发包
+修复了 工具链返回乱码的问题
+修复了 项目约束面板不弹出的问题
+修复了 底部状态栏重叠文本问题
+修复了 token计算量错误的问题
+修复了 项目约束用例不生效的问题
