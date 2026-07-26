@@ -1,6 +1,6 @@
-1.13.2
-dsagent-1.13.2-setup.exe
-this is dsagent-1.13.2-setup.exe in 2026-07-26
+1.13.0
+dsagent-1.13.0-setup.exe
+this is dsagent-1.13.0-setup.exe in 2026-07-26
 change in english
 Added: Conversations continue running in the background after switching
 Added: Dialog box height can now be adjusted for easier viewing
