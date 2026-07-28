@@ -1,5 +1,11 @@
-1.13.0
-dsagent-1.13.0-setup.exe
+1.13.3
+dsagent-1.13.3-setup.exe
+this is dsagent-1.13.3-setup.exe in 2026-07-28
+in english
+Some simple optimisations, now supporting single-sentence generation applications instead of freezing in the background toolchain calls、
+改动：
+一些简单的优化，现在支持一句话生成简单应用而不是卡死在后台工具链调用中
+
 this is dsagent-1.13.0-setup.exe in 2026-07-26
 change in english
 Added: Conversations continue running in the background after switching
